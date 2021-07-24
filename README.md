@@ -1,4 +1,4 @@
-https://dev.azure.com/arg-consultancy/Hello-World/_apis/build/status/arg-consultancy.python-sample-vscode-flask-tutorial?branchName=master)](https://dev.azure.com/arg-consultancy/Hello-World/_build/latest?definitionId=1&branchName=master
+[[Build Status](https://dev.azure.com/arg-consultancy/Hello-World/_apis/build/status/arg-consultancy.python-sample-vscode-flask-tutorial?branchName=master)](https://dev.azure.com/arg-consultancy/Hello-World/_build/latest?definitionId=1&branchName=master)
 
 # Python/Flask Tutorial for Visual Studio Code
 
